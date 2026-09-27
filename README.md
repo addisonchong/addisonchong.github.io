@@ -19,6 +19,7 @@ p {color:#4F5D4B; font-family:Arial, san-serif;}
 <p>I like being involved in clubs like PAWS and Project 58 to help make a difference in my community. I also like learning about business and marketing.</p>
 
 <img width="953" height="1271" alt="photo2" src="https://github.com/user-attachments/assets/4475171d-c6df-409d-baee-267c25362a7e" />
+<img width="953" height="1271" alt="IMG_7365" src="https://github.com/user-attachments/assets/81c43efa-ec08-4843-ae71-f13e25bd48e2" />
 
 <h4>My Goals</h4>
 <p>One of my goals is to attend UCLA, which is my dream school!</p>
