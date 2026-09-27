@@ -1,11 +1,7 @@
-# addisonchong.github.io
-
 <html>
-
 <head>
-    <title>About Me</title>
+<title>About Me</title>
 </head>
-
 <body>
 
     <h1> Hi, I'm Addison!</h1>
